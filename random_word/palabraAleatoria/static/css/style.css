@@ -1,0 +1,21 @@
+.container {
+    border: 1px solid black;
+    width: 400px;
+    height: 500px;
+    margin: 0 auto;
+}
+
+p {
+    margin: 0 auto;
+    width:70%;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.content {
+    width: 70%;
+    height:60%;
+    border: 1px solid black;
+    margin: 0 auto;
+    margin-top: 10px;
+}
